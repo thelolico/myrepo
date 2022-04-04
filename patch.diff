@@ -1,0 +1,40 @@
+diff --git a/README.md b/README.md
+index d98ff3a..c5ac4ce 100644
+--- a/README.md
++++ b/README.md
+@@ -3,9 +3,9 @@
+ 2
+ 3
+ 4
+-5
+-6
+-7
+-8
+-9
+-0
++
++
++
++
++
++
+diff --git a/test1.txt b/test1.txt
+index af497bf..4f245da 100644
+--- a/test1.txt
++++ b/test1.txt
+@@ -1,4 +1,7 @@
+ <<<<<<< HEAD
++<<<<<<< HEAD
+ 1254
+ 321
++=======
++>>>>>>> dev
+ 1234
+diff --git a/test2.txt b/test2.txt
+index a0e873a..bd41cba 100644
+--- a/test2.txt
++++ b/test2.txt
+@@ -1 +1 @@
+-12545
++12345
+\ No newline at end of file
